@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "com.iset.tproom.app-mergeDebugResources-49:/layout/fragment_liste_etudiants.xml",
+        "source": "com.iset.tproom.app-main-52:/layout/fragment_liste_etudiants.xml"
+    },
+    {
+        "merged": "com.iset.tproom.app-mergeDebugResources-49:/layout/item_etudiant.xml",
+        "source": "com.iset.tproom.app-main-52:/layout/item_etudiant.xml"
+    },
+    {
+        "merged": "com.iset.tproom.app-mergeDebugResources-49:/layout/fragment_ajout_etudiant.xml",
+        "source": "com.iset.tproom.app-main-52:/layout/fragment_ajout_etudiant.xml"
+    },
+    {
+        "merged": "com.iset.tproom.app-mergeDebugResources-49:/layout/dialog_edit_details.xml",
+        "source": "com.iset.tproom.app-main-52:/layout/dialog_edit_details.xml"
+    },
+    {
+        "merged": "com.iset.tproom.app-mergeDebugResources-49:/layout/activity_main.xml",
+        "source": "com.iset.tproom.app-main-52:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.iset.tproom.app-mergeDebugResources-49:/layout/fragment_detail_etudiant.xml",
+        "source": "com.iset.tproom.app-main-52:/layout/fragment_detail_etudiant.xml"
+    }
+]

@@ -1,0 +1,90 @@
+[
+    {
+        "merged": "com.iset.tproom.app-debug-50:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.iset.tproom.app-main-52:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.iset.tproom.app-debug-50:/layout_dialog_edit_details.xml.flat",
+        "source": "com.iset.tproom.app-main-52:/layout/dialog_edit_details.xml"
+    },
+    {
+        "merged": "com.iset.tproom.app-debug-50:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.iset.tproom.app-main-52:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.iset.tproom.app-debug-50:/menu_main.xml.flat",
+        "source": "com.iset.tproom.app-main-52:/menu/main.xml"
+    },
+    {
+        "merged": "com.iset.tproom.app-debug-50:/layout_fragment_liste_etudiants.xml.flat",
+        "source": "com.iset.tproom.app-main-52:/layout/fragment_liste_etudiants.xml"
+    },
+    {
+        "merged": "com.iset.tproom.app-debug-50:/layout_activity_main.xml.flat",
+        "source": "com.iset.tproom.app-main-52:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.iset.tproom.app-debug-50:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.iset.tproom.app-main-52:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.iset.tproom.app-debug-50:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.iset.tproom.app-main-52:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.iset.tproom.app-debug-50:/layout_fragment_ajout_etudiant.xml.flat",
+        "source": "com.iset.tproom.app-main-52:/layout/fragment_ajout_etudiant.xml"
+    },
+    {
+        "merged": "com.iset.tproom.app-debug-50:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.iset.tproom.app-main-52:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.iset.tproom.app-debug-50:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.iset.tproom.app-main-52:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.iset.tproom.app-debug-50:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.iset.tproom.app-main-52:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.iset.tproom.app-debug-50:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.iset.tproom.app-main-52:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.iset.tproom.app-debug-50:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.iset.tproom.app-main-52:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.iset.tproom.app-debug-50:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.iset.tproom.app-main-52:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.iset.tproom.app-debug-50:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.iset.tproom.app-main-52:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.iset.tproom.app-debug-50:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.iset.tproom.app-main-52:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.iset.tproom.app-debug-50:/menu_activity_main_drawer.xml.flat",
+        "source": "com.iset.tproom.app-main-52:/menu/activity_main_drawer.xml"
+    },
+    {
+        "merged": "com.iset.tproom.app-debug-50:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.iset.tproom.app-main-52:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.iset.tproom.app-debug-50:/layout_item_etudiant.xml.flat",
+        "source": "com.iset.tproom.app-main-52:/layout/item_etudiant.xml"
+    },
+    {
+        "merged": "com.iset.tproom.app-debug-50:/layout_fragment_detail_etudiant.xml.flat",
+        "source": "com.iset.tproom.app-main-52:/layout/fragment_detail_etudiant.xml"
+    },
+    {
+        "merged": "com.iset.tproom.app-debug-50:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.iset.tproom.app-main-52:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    }
+]

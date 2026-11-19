@@ -1,0 +1,8 @@
+com.iset.tproom.app-pngs-0 C:\Users\DELL\TpRoom\app\build\generated\res\pngs\debug
+com.iset.tproom.app-updated_navigation_xml-1 C:\Users\DELL\TpRoom\app\build\generated\updated_navigation_xml\debug
+com.iset.tproom.app-packageDebugResources-2 C:\Users\DELL\TpRoom\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.iset.tproom.app-packageDebugResources-3 C:\Users\DELL\TpRoom\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.iset.tproom.app-debug-4 C:\Users\DELL\TpRoom\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.iset.tproom.app-debug-5 C:\Users\DELL\TpRoom\app\src\debug\res
+com.iset.tproom.app-main-6 C:\Users\DELL\TpRoom\app\src\main\res
+gradleHome-0 C:\Users\DELL\.gradle
